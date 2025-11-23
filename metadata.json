@@ -1,0 +1,7 @@
+{
+  "name": "Future Career Navigator",
+  "description": "A comprehensive AI-powered career guidance platform for students aged 10-18, featuring quizzes, pathways, mentorship, and portfolio building.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
